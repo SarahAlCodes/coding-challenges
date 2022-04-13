@@ -5,7 +5,3 @@
 function squareSum(numbers){
     return numbers.reduce((a,b) => a + (b * b), 0 );
 }
-<<<<<<< HEAD
-=======
-
->>>>>>> e828d56 (Daily 8 kyu Arrays)
