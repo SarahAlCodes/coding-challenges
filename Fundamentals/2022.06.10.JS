@@ -12,7 +12,7 @@ class SmallestIntegerFinder {
     }
 }
 
-//P array
+//P arguments
 //R smallest nteger in set of array
 //E [34, 15, 88, 2] your solution will return 2
 //P create min variable, assign it to Math.min function, return min
