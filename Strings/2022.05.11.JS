@@ -1,20 +1,32 @@
-// Convert a String to a Number!
-// We need a function that can transform a string into a number. What ways of achieving this do you know?
-// Note: Don't worry, all inputs will be strings, and every string is a perfectly valid representation of an integral number.
+
+// It's bonus time in the big city! The fatcats are rubbing their paws in anticipation... but who is going to make the most money?
+
+// Build a function that takes in two arguments (salary, bonus). Salary will be an integer, and bonus a boolean.
+
+// If bonus is true, the salary should be multiplied by 10. If bonus is false, the fatcat did not make enough money and must receive only his stated salary.
 
 
 
-const stringToNumber = function(str){
-    return Number(str);
+function bonusTime(salary, bonus) {
+    if(bonus === true){
+      return ('£'+ (salary * 10))
+    }else{
+      return ('£'+ salary)
+    }
 }
+  
 
 //Alternative Solution
-
-var stringToNumber = function(str){
-    return parseInt(str);
+function bonusTime(salary, bonus) {
+    return bonus ? `£${10 * salary}` : `£${salary}`;
 }
 
-var stringToNumber = function(str){
-    return +str;
+function bonusTime(salary, bonus) {
+    return '£' + salary * (bonus ? 10 : 1);
 }
-
+  
+  
+//   Parameters- salary,bonus
+//   Return-integer,boolean
+//   Examples-bonus true, return- salary x 10, else salary
+//   Pseudocode- solve if bonus is true, calculate salary with bonus, return if false
