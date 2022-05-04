@@ -13,3 +13,10 @@
 function swapValues(args) {
 	args[1] = [args[0], args[0] = args[1]][0];
 }
+
+
+//Alternative Solution
+
+function swapValues() {
+	return arguments[0].reverse();
+ }
