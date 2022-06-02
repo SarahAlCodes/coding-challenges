@@ -28,6 +28,10 @@ function stringClean(s){
     }
   return result;
 }
-
+ 
+//  P string
+//  R strings without any numbers, can have special characters
+//  E f6jo! => fja
+//  P use replace method to creae a new string, removes any numbers [0-9] and changes
 
 
