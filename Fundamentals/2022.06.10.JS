@@ -1,0 +1,19 @@
+// Given an array of integers your solution should find the smallest integer.
+
+// For example:
+
+// Given [34, -345, -1, 100] your solution will return -345
+// You can assume, for the purpose of this kata, that the supplied array will not be empty.
+
+class SmallestIntegerFinder {
+    findSmallestInt(args) {
+      const min = Math.min(...args)
+      return min
+    }
+}
+
+//P array
+//R smallest nteger in set of array
+//E [34, 15, 88, 2] your solution will return 2
+//P create min variable, assign it to Math.min function, return min
+
