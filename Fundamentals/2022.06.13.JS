@@ -17,7 +17,7 @@
 
 
 function century(year) {
-    return Math.ceil(year/100);
+    return Math.ceil(year/100); // rounds up to next integer
 }
 
 //Alternative Solutions
@@ -32,3 +32,4 @@ function century(year) {
     }
     return century;
   }
+
