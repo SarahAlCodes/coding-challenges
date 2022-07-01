@@ -18,5 +18,5 @@ Throughout my tech journey, I set myself a goal to complete one coding challenge
 Through each coding challenge, I used pseudocode to break down what the question was asking me to return, what data types were being used, and what steps needed to be taken to reach the solution. Time and space complexity are factors in optimizing each coding challenge and improving such technical skills.
 Throughout this process, I have been able to consistently code each day, while building better coding skills that increase readability and efficiency in each line of code.
 </p>
-![image](https://user-images.githubusercontent.com/101753940/176962804-5f577a59-1a8e-42d1-a45a-94d35152c38a.png)
+
 
