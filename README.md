@@ -1,13 +1,25 @@
-# Daily Coding Challenges
+# <a href = "https://www.codewars.com/users/SarahAlCodes" target="_blank">Daily Coding Challenges</a>
 <div align="center">
 <img src=https://user-images.githubusercontent.com/101753940/176959897-ebcc5f3a-cce2-43b8-a0ff-ef34d0431fa9.png>
 </div>
 
+## Table of Contents  
+- [About](##About)  
+- [Technologies Used](##Technologies-Used)   
+- [Optimizations](##Optimizations)  
+- [What Was Learned](##What-Was-Learned)    
+<a name="About"/>
+<a name="Technologies Used"/>
+<a name="Optimizations"/>
+<a name="What Was Learned"/>
+
+
+## About
 <p>
 Throughout my tech journey, I set myself a goal to complete one coding challenge every day. This helped me build my critical thinking and problem-solving skills as I learned the data structures and algorithms that create the fundamental layouts of each challenge. 
 </p>
 
-## Languages Used
+## Technologies Used
 
 <div align="center">
 	<img src="https://user-images.githubusercontent.com/101753940/176961219-ce42b1bf-a3c9-4011-9a51-140abbd4c87c.png" height="100px">
