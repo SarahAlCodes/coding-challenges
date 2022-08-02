@@ -30,3 +30,4 @@ function Sleigh() {
   Sleigh.prototype.authenticate = function(name, password) {
     return this.name == name && this.password == password;
 };
+
